@@ -1,0 +1,1 @@
+binaryPartialApplication binaryFunc arg = (\x -> binaryFunc arg x)
